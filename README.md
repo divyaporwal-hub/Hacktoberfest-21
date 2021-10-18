@@ -38,5 +38,5 @@ Have a great project lined up and looking for more contributors? Push it and cou
 <ul>
 <li> <a href = "https://docs.github.com/en/github-cli">Github CLI</a></li>
 <li> <a href = "https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git & Github</a></li>
-<li> Some <a href = "https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8">crash courses</a> that you can follow and push</li>
+<li> Some <a href = "https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8">crash courses</a> that you can follow and contribute</li>
 </ul>
