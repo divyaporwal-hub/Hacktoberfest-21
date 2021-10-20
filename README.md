@@ -1,6 +1,19 @@
-# Hacktoberfest-21
+<h1 align="center"> Hacktoberfest 2021 </h1>
+
+
 This repository will be host to the activities happening at KNIT during Hacktoberfest'21. <br>
 Hacktoberfest is the annual celebration of open-source that takes place every year during the month of October and is a treat for everyone from a newbie to a seasoned campaigner. Keep reading if this interests you! <br>
+
+![image](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
+
+<h3 align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        Link To HacktoberFest 2021
+    </a>
+</h3>
+
+
+
 Steps to get started with Github: <br>
 <ul>
 <li> First, you'll need a Github account. Head <a href = "https://github.com/">here</a> to create one.</li>
